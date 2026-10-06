@@ -1,0 +1,13 @@
+part_number,description,category,supplier,country,city,condition,unit_price,currency,stock_qty,lead_time_days,reliability_score,source_url,last_checked
+AV-4721-01,Fuel Pump Assembly,Aircraft Spares,Aero Gulf Parts,UAE,Dubai,Serviceable,4200,USD,3,7,92,https://example.com/aero-gulf/av-4721-01,2026-10-06
+EL-1098-B,Avionics Control Module,Electronic Spares,Skyline Aviation Supply,Qatar,Doha,New,18800,QAR,1,18,95,https://example.com/skyline/el-1098-b,2026-10-06
+HYD-8830,Hydraulic Filter Element,Consumables,Desert Aero Trading,Saudi Arabia,Riyadh,New,1450,SAR,24,5,88,https://example.com/desert-aero/hyd-8830,2026-10-06
+WHL-220A,Main Wheel Assembly,Landing Gear,Euro MRO Supply,Germany,Hamburg,Overhauled,6250,EUR,2,21,94,https://example.com/euro-mro/whl-220a,2026-10-06
+BAT-24V-40,Aircraft Battery 24V,Electrical,Caspian Aviation Stores,Azerbaijan,Baku,New,2600,USD,5,12,86,https://example.com/caspian/bat-24v-40,2026-10-06
+OXY-REG-7,Oxygen Regulator,Cabin Safety,Central Asia Aero,Kazakhstan,Almaty,Serviceable,1750,USD,4,14,84,https://example.com/central-asia/oxy-reg-7,2026-10-06
+FLT-908,Oil Filter,Consumables,Gulf Technical Stores,UAE,Abu Dhabi,New,340,AED,60,3,90,https://example.com/gulf-tech/flt-908,2026-10-06
+BRK-771,Brake Assembly,Landing Gear,Peninsula Aircraft Materials,Qatar,Doha,Overhauled,9800,QAR,3,10,91,https://example.com/peninsula/brk-771,2026-10-06
+PIT-155,Pitot Tube,Flight Instruments,Arabian Aero Components,Saudi Arabia,Jeddah,New,7200,SAR,7,9,89,https://example.com/arabian/pit-155,2026-10-06
+GEN-115,Starter Generator,Electrical,European Aviation Stock,Netherlands,Amsterdam,Serviceable,5450,EUR,2,16,96,https://example.com/european/gen-115,2026-10-06
+VAL-402,Pneumatic Control Valve,Pneumatics,Anatolia Aviation Parts,Turkey,Istanbul,Overhauled,3600,EUR,4,13,87,https://example.com/anatolia/val-402,2026-10-06
+SEN-300,Temperature Sensor,Avionics,Asia Aero Supply,Malaysia,Kuala Lumpur,New,980,USD,15,11,85,https://example.com/asia-aero/sen-300,2026-10-06
